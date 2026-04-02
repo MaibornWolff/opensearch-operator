@@ -1,8 +1,6 @@
 # OpenSearch Kubernetes Operator
 
-**This is a fork of the [opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) that was formerly hosted by [Opster](https://opster.com) and is now part of the opensearch-project. Due to confusion and instability in the project, MaibornWolff has decided to (temporarily) provide a fork of the operator with compatible and stable releases. Feel free to open an issue or start a discussion if you have questions.**
-
-The Kubernetes OpenSearch Operator is used for automating the deployment, provisioning, management, and orchestration of OpenSearch clusters and OpenSearch dashboards.
+**This repository is no longer maintained. Please use the [upstream opensearch-k8s-operator](https://github.com/opensearch-project/opensearch-k8s-operator) from the Opensearch organization.**
 
 ## Getting started
 
